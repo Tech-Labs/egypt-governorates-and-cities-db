@@ -10,7 +10,7 @@ INSERT INTO `cities` (`id`, `gov_id`, `city_name`, `city_name_en`) VALUES
 (1, 1, 'القاهره', 'Cairo'),
 (2, 2, 'الجيزة', 'Giza'),
 (3, 2, 'السادس من أكتوبر', 'Sixth of October'),
-(4, 2, 'الشيخ زايد\n', 'Cheikh Zayed'),
+(4, 2, 'الشيخ زايد', 'Cheikh Zayed'),
 (5, 2, 'الحوامدية', 'Hawamdiyah'),
 (6, 2, 'البدرشين', 'Al Badrasheen'),
 (7, 2, 'الصف', 'Saf'),
