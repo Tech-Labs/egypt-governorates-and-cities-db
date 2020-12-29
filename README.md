@@ -1,4 +1,5 @@
-# Egypt governorates and cities db
+# Egypt Governorates and Cities DB
 
-egypt governorates and cities DB
 قاعدة بيانات محافظات و مدن مصر
+
+### Added 396 Cities of Egypt
